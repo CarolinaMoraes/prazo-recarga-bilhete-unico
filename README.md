@@ -1,4 +1,4 @@
-# Prazo de recarga para o Bilhete Único :station: :money_with_wings: :calendar: :alarm_clock:
+# Prazo de recarga para o Bilhete Único :station: :money_with_wings:
 Descubra quantas idas e voltas é possível fazer com o seu saldo 
 
 ## Modalidades
